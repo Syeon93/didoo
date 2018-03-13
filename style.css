@@ -1,0 +1,36 @@
+
+
+body {
+  width:1000px;
+  height:740px;
+  border:3px solid;
+}
+
+header {
+  border-bottom:3px solid skyblue;
+  width:960px;
+  padding:20px;
+  padding-left:30px;
+}
+header h1 {
+  width:90%;
+}
+nav {
+  float:left;
+  border-right:1px solid gray;
+  width:270px;
+  height:558px;
+  padding-top:5px;
+}
+article {
+  float:left;
+  padding:20px;
+  width:680px;
+}
+article img {
+  width:100%;
+}
+nav ul {
+  list-style:none;
+  font-size:20px;
+}
